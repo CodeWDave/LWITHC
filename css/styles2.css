@@ -81,7 +81,7 @@ nav .btn {
   width: 100%;
   margin: 2.4vh 1.35vw;
   text-align: center;
-  padding: 12vh 0rem 8vh 0rem;
+  padding: 9vh 0rem 8vh 0rem;
   line-height: 0rem;
 }
 #landing .tagline p {
@@ -112,7 +112,7 @@ nav .btn {
 #landing .landing-photo {
   position: absolute;
   object-fit: inherit;
-  height: 40vh;
+  height: 43vh;
   right: -540vw;
   bottom: 22vh;
 }
