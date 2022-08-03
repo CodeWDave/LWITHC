@@ -112,7 +112,7 @@ nav .btn {
 #landing .landing-photo {
   position: absolute;
   object-fit: inherit;
-  height: 43vh;
+  height: 50vh;
   right: -540vw;
   bottom: 14.5vh;
 }
